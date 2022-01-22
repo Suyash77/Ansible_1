@@ -1,2 +1,2 @@
 # Ansible_1
-Learning Ansible fron scratch
+Learning Ansible from scratch
